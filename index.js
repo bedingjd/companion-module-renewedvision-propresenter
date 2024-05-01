@@ -1455,7 +1455,7 @@ class ProPresenterInstance extends InstanceBase {
 				}, 400)
 				this.log(
 					'info',
-					'Slide Triggered TEST: ' +
+					'Slide Triggered: ' +
 						String(objData.presentationPath) +
 						'.' +
 						String(objData.slideIndex) +
